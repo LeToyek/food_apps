@@ -30,13 +30,13 @@ class HomeScreen extends StatelessWidget {
             'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
           ]),
       FoodItems(
-          title: 'Soto2',
-          deskripsi: 'Soto bu karto',
-          mainphoto: 'images/soto.jpg',
+          title: 'Nasi Goreng',
+          deskripsi: 'Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega',
+          mainphoto: 'images/nasgor.jpg',
           photos: [
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
+            'https://asset.kompas.com/crops/riPGK5eD7amHKtv3dFNqioI6IqI=/13x7:700x465/780x390/data/photo/2021/09/24/614dc6865eb24.jpg',
+            'https://asset.kompas.com/crops/LoolFyLWLjqtNLwXV_DzfQk3BT4=/3x0:700x465/780x390/data/photo/2021/04/08/606e886b972ac.jpeg',
+            'images/nasgor1.jpg',
           ]),
       FoodItems(
           title: 'Bakso2',
