@@ -39,6 +39,15 @@ class HomeScreen extends StatelessWidget {
             'images/nasgor1.jpg',
           ]),
       FoodItems(
+          title: 'Rendang',
+          deskripsi: 'Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan.',
+          mainphoto: 'images/rendang1.jpg',
+          photos: [
+            'images/rendang2.jpg',
+            'images/rendang3.jpg',
+            'images/rendang4.jpg',
+          ]),
+      FoodItems(
           title: 'Bakso2',
           deskripsi: 'Bakso Pak Eko',
           mainphoto: 'images/bakso.jpg',
