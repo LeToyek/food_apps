@@ -21,35 +21,29 @@ class HomeScreen extends StatelessWidget {
             'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
           ]),
       FoodItems(
-          title: 'Bakso',
-          deskripsi: 'Bakso Pak Eko',
-          mainphoto: 'images/bakso.jpg',
-          photos: [
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
-            'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
-          ]),
-      FoodItems(
           title: 'Nasi Goreng',
-          deskripsi: 'Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega',
+          deskripsi:
+              'Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega',
           mainphoto: 'images/nasgor.jpg',
           photos: [
             'https://asset.kompas.com/crops/riPGK5eD7amHKtv3dFNqioI6IqI=/13x7:700x465/780x390/data/photo/2021/09/24/614dc6865eb24.jpg',
             'https://asset.kompas.com/crops/LoolFyLWLjqtNLwXV_DzfQk3BT4=/3x0:700x465/780x390/data/photo/2021/04/08/606e886b972ac.jpeg',
-            'images/nasgor1.jpg',
+            'https://cdn-2.tstatic.net/travel/foto/bank/images/kuliner-nasi-goreng-jawa-enak-untuk-menu-sarapan.jpg',
           ]),
       FoodItems(
           title: 'Rendang',
-          deskripsi: 'Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan.',
-          mainphoto: 'images/rendang1.jpg',
+          deskripsi:
+              'Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan.',
+          mainphoto: 'images/rendang3.jpg',
           photos: [
             'images/rendang2.jpg',
             'images/rendang3.jpg',
             'images/rendang4.jpg',
           ]),
       FoodItems(
-          title: 'Bakso2',
-          deskripsi: 'Bakso Pak Eko',
+          title: 'Bakso',
+          deskripsi:
+              'Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau.',
           mainphoto: 'images/bakso.jpg',
           photos: [
             'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/bakso-sapi-kuah-1.jpg',
